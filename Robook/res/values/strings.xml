@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Robook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">815757485122496</string>
+    <string name="ACCESS_TOKENA">CAAWDuDgU4BABAKZBDeTHWpcEu9C6GTdBTj1f69P785Ur0yZCzsElBfTW3MhukUCRkMIvf8w1N24AbfzosfcpGi1U03vYgLjtq6OIOYp09qeycp7XV51nHbDzYU5K1BOUZAo7FTeHqHzWY5oWTiCr41ZAPe3EHJF9ZC89QPcKLh7oAmbkm0HXfwXNEKX72R1WgbdEoG44tTJaeC1BYZCunB</string>
+	<string name="ACCESS_TOKENB">CAALl7Vcfo8ABAJ6VD67e0VZBc9lVKrkanf0nw85L7xyZAMVwFbmHf1eeNBaWWAEGHi6j2XlIBdZA9KXKIzFKeYzgCx3vZCiHexuZCndL1dBdvI2739Si1D7pgZAemK0aohfx1Vo3y2VrAfxZCiK8ZBH7z7LqAV13EKZAhwc3GGx6JTJCOR6I2wPgtZB1ZAHLkLDlLtfDPIIEiZBbx7tC1PekSYwu</string>
+	<string name="textSquadraA">Squadra Android</string>
+	<string name="textSquadraB">Squadra Apple</string>
+	<string name="textStartService">Avvia Service</string>
+	<string name="textStopService">Stop Service</string>
+	<string name="textTitolo">Titolo</string>
+	<string name="textlikesSquadraB">Squadra B</string>
+	<string name="textlikesSquadraA">Squadra A</string>
+	<string name="delay">Delay</string>
+	<string name="textCamera">Avvia Camera</string>
+</resources>
